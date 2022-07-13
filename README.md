@@ -17,6 +17,10 @@ built with React & TailwindCSS
 
 [Live demo](https://traveljourneymock.netlify.app/)
 
+## Worth mentioning
+
+- Not mobile friendly (soon)
+
 ## Credit
 
 This project idea is from [Scrimba React Course](https://scrimba.com/learn/learnreact) with Bob Ziroll
