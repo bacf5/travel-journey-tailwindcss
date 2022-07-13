@@ -5,7 +5,7 @@
 // ];
 
 function Card(props) {
-  console.log(props);
+  // console.log(props);
   return (
     <div className="max-w-2xl mx-auto">
       {' '}
