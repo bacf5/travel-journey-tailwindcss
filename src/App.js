@@ -17,7 +17,7 @@ function App() {
       </div>
       {cards}
       <span className="flex justify-center p-2">
-        <a href="https://github.com/bacf5/tenzies-game-tailwind">
+        <a href="https://github.com/bacf5/travel-journey-tailwindcss/">
           <svg
             className="m-1 hover:scale-125 ease-in duration-200"
             width="32px"
